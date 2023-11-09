@@ -1,6 +1,6 @@
 body {
 	overflow: hidden;
-	background: url(../pics/ebook_bg.jpg) no-repeat center top;
+	background: url(../pages/bg2.jpg) no-repeat center top;
 	background-size: cover;
 	margin: 0;
 	padding: 0;
@@ -25,7 +25,7 @@ body {
 	padding: 10px 20px;
 	border-radius: 10px;
 	box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
-	background: rgb(69, 85, 106);
+	background: #c88bb3;
 	color: #fff;
 }
 
