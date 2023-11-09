@@ -434,6 +434,7 @@ h1{
 	font-family: 'ReciaSerifDisplay';
 	font-size: 2.5rem;
 	margin-right: 0.2em;
+	color: rgb(247, 165, 224);
 }
 
 .skill h4 span{
@@ -443,6 +444,7 @@ h1{
 
 .skill h5{
 	font-size: 1rem;
+	color: #b877bf;
 }
 
 /* 1300px ~ */

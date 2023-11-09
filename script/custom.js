@@ -23,7 +23,7 @@ $(function () {
     scaleColor: false,
     lineWidth: 4,
     lineCap: 'butt',
-    barColor: '#333',
+    barColor: '#b877bf',
     trackColor: "#fff",
     size: 100,
     animate: 1000
