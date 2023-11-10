@@ -94,7 +94,7 @@ input[id="menuicon"]:checked+label span:nth-child(3) {
 .sidebar {
 	width: 50%;
 	height: 100%;
-	background: #e6e6e6;
+	background: #c19cce;
 	opacity: calc(95%);
 	position: fixed;
 	top: 0;
